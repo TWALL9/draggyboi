@@ -11,6 +11,6 @@
         android:color="#DD2ECCFA" />
 
     <size
-        android:width="120dp"
-        android:height="120dp"/>
+        android:width="240dp"
+        android:height="240dp"/>
 </shape>
